@@ -9,6 +9,7 @@ The game keeps track of scores for both players (X and O).
 It displays a message when a player wins, and it keeps track of ties.
 You can play again after a game ends by clicking on the board.
 The game has a graphical user interface with X and O symbols.
+
 ##How to Play
 Run the Python script (tictactoe.py) to start the game.
 The game starts with Player 1 (X) always going first.
@@ -16,6 +17,7 @@ Click on an empty cell on the board to place your symbol (X or O).
 The game will alternate between Player 1 (X) and Player 2 (O) until there is a winner or a tie.
 The game keeps track of scores and displays the winner or a tie message when the game ends.
 To play again, simply click anywhere on the board.
+
 ##Game Rules
 The objective of the game is to get three of your symbols (either X or O) in a row horizontally, vertically, or diagonally.
 Players take turns placing their symbol on the board.
